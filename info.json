@@ -1,8 +1,9 @@
 {
   "name": "RusSeaBlock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "RusSeaBlock",
   "author": "Iogica Sergey",
   "factorio_version": "1.1",
-  "dependencies": []
+  "dependencies": [],
+  "description": "Машинный перевод (с помощью переводчика) мода SeaBlock и его зависимостей. Модификация пока не полная, часть осталась на английском (советы и т п)."
 }
